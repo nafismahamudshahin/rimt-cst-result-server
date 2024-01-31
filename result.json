@@ -798,5 +798,25 @@
         "seventhSemester": 0,
         "eighthSemester": 0
       }
+    },
+    {
+      "id":40,
+      "roll": 6735,
+      "registration": 1502218722,
+      "name": "RAJUAN RAHAT SHIFAT",
+      "gender": "Male",
+      "semester": ["First","Second","Third","Fourth","Fifth","Sixth","Seventh","Eighth"],
+      "tecnnology": "Computer Science and Technology",
+      "session": "21-22",
+      "cgpa": {
+        "firstSemester": 3.46,
+        "secondSemester": 3.46,
+        "thirdSemester": 3.46,
+        "fourthSemester": 3.46,
+        "fifthSemester": 0,
+        "sixthSemester":0,
+        "seventhSemester": 0,
+        "eighthSemester": 0
+      }
     }
 ]
