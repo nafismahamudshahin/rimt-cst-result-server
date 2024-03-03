@@ -130,9 +130,9 @@
       "tecnnology": "Computer Science and Technology",
       "session": "21-22",
       "cgpa": {
-        "firstSemester": null,
-        "secondSemester": null,
-        "thirdSemester": null,
+        "firstSemester": 0,
+        "secondSemester": 0,
+        "thirdSemester": 0,
         "fourthSemester": 3.37,
         "fifthSemester": 0,
         "sixthSemester":0,
