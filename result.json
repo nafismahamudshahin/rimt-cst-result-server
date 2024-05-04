@@ -331,9 +331,9 @@
       "session": "21-22",
       "cgpa": {
         "firstSemester": 3.43,
-        "secondSemester": 00,
-        "thirdSemester": 00,
-        "fourthSemester": 00,
+        "secondSemester": 0,
+        "thirdSemester": 0,
+        "fourthSemester": 0,
         "fifthSemester": 0,
         "sixthSemester":0,
         "seventhSemester": 0,
